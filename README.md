@@ -7,3 +7,4 @@ Materials for the Java Academy: training by Switchfully the 3 first months on th
 
 ### 0. Preparation
   - HTML5 & CSS3
+  - Git & GitHub
