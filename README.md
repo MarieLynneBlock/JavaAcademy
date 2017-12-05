@@ -5,5 +5,5 @@ Materials for the Java Academy: training by Switchfully the 3 first months on th
 
 ## Course Layout
 
-#### 0. Preparation
+### 0. Preparation
   - HTML5 & CSS3
